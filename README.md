@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="./rect1323.png" alt="Seward Mupereri - Data Engineer" width="25%" />
+  <img src="./avatar.png" alt="Seward Mupereri - Data Engineer" width="25%" />
 </div>
 
 ###
