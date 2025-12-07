@@ -1,19 +1,19 @@
 <div align="center">
   <a href="mailto:sewardrichardmupereri@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail" />
   </a>
   <a href="https://www.linkedin.com/in/seward-mupereri/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin" />
   </a>
   <a href="https://sewardrichard.github.io/portfolio/">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" height="35" alt="portfolio" />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sewardrichard/count.svg?" />
+  <img src="./rect1323.png" alt="Seward Mupereri - Data Engineer" width="25%" />
 </div>
 
 ###
