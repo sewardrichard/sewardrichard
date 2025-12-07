@@ -89,8 +89,6 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
 </div>
 
 ###
@@ -99,9 +97,7 @@
   <h3>📊 My Stats 📈</h3>
   
 ###
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewardrichard&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sewardrichard&theme=dark&hide_border=true&include_all_commits=false&count_private=true" /><br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sewardrichard&theme=dark&hide_border=true" /><br/>
     
 </div>
