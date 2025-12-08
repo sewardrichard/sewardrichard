@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./avatar.png" alt="Seward Mupereri" width="150" style="border-radius: 50%; border: 4px solid #333;" />
+  <img src="./hero.gif" alt="Seward Mupereri" width="150" style="border-radius: 50%; border: 4px solid #333;" />
 
   <h1 align="center">Hi, I'm Seward Mupereri! 👋</h1>
   <h3 align="center">Data Engineer | Cloud Specialist | Problem Solver</h3>
