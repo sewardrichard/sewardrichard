@@ -26,7 +26,7 @@
 <div align="center">
   <h2>👨‍💻 About Me</h2>
   <p align="center" width="60%">
-    I specialize in <b>Cloud Technologies, ETL Processes, and Scalable Data Solutions</b>.<br/> 
+    I specialize in <b>Cloud Technologies, ETL Processes, AI Automation and Scalable Data Solutions</b>.<br/> 
     My passion lies in driving business value by engineering reliable data architectures and modernizing data stacks.
   </p>
 </div>
