@@ -28,7 +28,7 @@
   <h2>🚀 About Me & The Mission</h2>
   <p align="center">
     I am a <b>Solo Venture Builder</b> building digital products tailored for Southern Africa and emerging markets.<br/>
-    Inspired by high-velocity solo developers (Marc Lou, Pieter Levels), I build and iterate on scalable software with an African-first posture: zero-app WhatsApp workflows, POPIA-compliant data boundaries, ZAR-first commercial models, and self-hosted low-friction cloud infrastructure.
+    Inspired by high-velocity solo developers (Marc Lou, Pieter Levels), I build and iterate on scalable software with an African-first posture: zero-app WhatsApp workflows, POPIA-compliant data boundaries, Southern African multi-currency commercial models, and self-hosted low-friction cloud infrastructure.
   </p>
 </div>
 
@@ -41,10 +41,10 @@
   </p>
 </div>
 
-* **Zero-App WhatsApp Gateways**: Evolution API & Chatwoot multi-tenant automation.
+* **Zero-App WhatsApp Gateways**: Official WhatsApp Cloud API & Chatwoot multi-tenant automation.
 * **Sovereign Infrastructure**: Self-hosted Coolify PaaS, Docker, and private VPS nodes (zero cloud lock-in fees).
 * **Local-First & Offline Resilience**: Local SQLite / PowerSync, PWA kiosks, and thermal print drivers for unreliable connectivity.
-* **African Payments & Security**: Paystack multi-currency ZAR integration & POPIA audit trail logging.
+* **African Payments & Security**: Paystack & Southern African multi-currency engine (ZAR, USD, ZiG, ZMW) & POPIA audit trail logging.
 
 <hr/>
 
@@ -52,7 +52,7 @@
   <h2>📦 Portfolio Highlights (Roadmap to 100 Apps)</h2>
 </div>
 
-* 📱 **Marii Quoting** — Voice-to-RFQ parsing, ZAR PDF generator, and WhatsApp quote dispatch for SMEs.
+* 📱 **Marii Quoting** — Voice-to-RFQ parsing, multi-currency PDF generator (ZAR, USD, ZiG), and WhatsApp quote dispatch for SMEs.
 * 🛡️ **Muyeni Platform** — Zero-app estate access SaaS with automated WhatsApp visitor passes & POPIA logs.
 * 🏥 **Practice Assistant** — Medical WhatsApp AI for patient booking, tariff validation, and POPIA consent.
 * 🎓 **EduGateKeeper & AcademiaTrack** — Offline tablet kiosks & AI student report card OCR parsing.
