@@ -1,11 +1,12 @@
 <div align="center">
   <img src="./hero.gif" alt="Seward Mupereri" width="150" style="border-radius: 50%; border: 4px solid #333;" />
 
-  <h1 align="center">Hi, I'm Seward Mupereri! 👋</h1>
-  <h3 align="center">Data Engineer | Cloud Specialist | Problem Solver</h3>
+  <h1 align="center">Seward Mupereri</h1>
+  <h3 align="center">Solo Venture Builder | Founder @ Banya Labs 🌍</h3>
 
   <p align="center">
-    Building robust data pipelines and transforming raw data into actionable insights.
+    <b>Building 100 African SaaS & AI Products by July 16, 2028.</b><br/>
+    <i>Solving African operational problems with sovereign infrastructure, local-first UX, and agentic AI.</i>
   </p>
 
   <div align="center">
@@ -15,8 +16,8 @@
     <a href="https://www.linkedin.com/in/seward-mupereri/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
     </a>
-    <a href="https://sewardrichard.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/Portfolio-Site-000000?style=for-the-badge&logo=github&logoColor=white" height="30" />
+    <a href="https://banyalabs.com/">
+      <img src="https://img.shields.io/badge/Banya_Labs-000000?style=for-the-badge&logo=github&logoColor=white" height="30" />
     </a>
   </div>
 </div>
@@ -24,68 +25,69 @@
 <br/>
 
 <div align="center">
-  <h2>👨‍💻 About Me</h2>
-  <p align="center" width="60%">
-    I specialize in <b>Cloud Technologies, ETL Processes, AI Automation and Scalable Data Solutions</b>.<br/> 
-    My passion lies in driving business value by engineering reliable data architectures and modernizing data stacks.
+  <h2>🚀 About Me & The Mission</h2>
+  <p align="center">
+    I am a <b>Solo Venture Builder</b> building digital products tailored for Southern Africa and emerging markets.<br/>
+    Inspired by high-velocity solo developers (Marc Lou, Pieter Levels), I build and iterate on scalable software with an African-first posture: zero-app WhatsApp workflows, POPIA-compliant data boundaries, ZAR-first commercial models, and self-hosted low-friction cloud infrastructure.
   </p>
 </div>
 
 <hr/>
 
 <div align="center">
-  <h2>🛠 Tech Stack & Tools</h2>
+  <h2>⚡ Banya Core — PaaS Boilerplate for African Founders</h2>
+  <p align="center">
+    Centralized control plane and PaaS boilerplate designed for low operational friction and rapid deployment across African markets.
+  </p>
+</div>
+
+* **Zero-App WhatsApp Gateways**: Evolution API & Chatwoot multi-tenant automation.
+* **Sovereign Infrastructure**: Self-hosted Coolify PaaS, Docker, and private VPS nodes (zero cloud lock-in fees).
+* **Local-First & Offline Resilience**: Local SQLite / PowerSync, PWA kiosks, and thermal print drivers for unreliable connectivity.
+* **African Payments & Security**: Paystack multi-currency ZAR integration & POPIA audit trail logging.
+
+<hr/>
+
+<div align="center">
+  <h2>📦 Portfolio Highlights (Roadmap to 100 Apps)</h2>
+</div>
+
+* 📱 **Marii Quoting** — Voice-to-RFQ parsing, ZAR PDF generator, and WhatsApp quote dispatch for SMEs.
+* 🛡️ **Muyeni Platform** — Zero-app estate access SaaS with automated WhatsApp visitor passes & POPIA logs.
+* 🏥 **Practice Assistant** — Medical WhatsApp AI for patient booking, tariff validation, and POPIA consent.
+* 🎓 **EduGateKeeper & AcademiaTrack** — Offline tablet kiosks & AI student report card OCR parsing.
+* 🏭 **Enterprise Aura** — Mining & industrial RAG data pipeline resolving shadow stock discrepancies.
+
+<hr/>
+
+<div align="center">
+  <h2>🛠 Tech Stack & Ecosystem</h2>
   
   <table align="center" style="border: none;">
     <tr>
-      <td align="center" width="33%"><b>Languages</b></td>
-      <td align="center" width="33%"><b>Cloud & DevOps</b></td>
-      <td align="center" width="33%"><b>Databases</b></td>
+      <td align="center" width="25%"><b>Frontend & PWA</b></td>
+      <td align="center" width="25%"><b>Backend & DB</b></td>
+      <td align="center" width="25%"><b>DevOps & Infra</b></td>
+      <td align="center" width="25%"><b>AI & Messaging</b></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=py,js" height="40" alt="Languages" />
+        <img src="https://skillicons.dev/icons?i=nextjs,vue,react,tailwind,html,css" height="40" alt="Frontend" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux,git" height="40" alt="Cloud & DevOps" />
+        <img src="https://skillicons.dev/icons?i=nodejs,ts,py,postgres,sqlite,prisma" height="40" alt="Backend & DB" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=postgres,sqlite" height="40" alt="Databases" />
+        <img src="https://skillicons.dev/icons?i=docker,linux,git,vercel" height="40" alt="Infra" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=fastapi,ai" height="40" alt="AI & Messaging" />
       </td>
     </tr>
   </table>
 </div>
 
 <hr/>
-
-<div align="center">
-  <h2>🚀 Featured Project</h2>
-</div>
-
-### 🎓 **UniExplorer**
-> *A comprehensive data pipeline for university prospectus data.*
-
-**What it does:** Extracts data from multiple university prospectus documents, transforms the unstructured text, and loads it into a queryable database.
-<br/>
-**Key Technologies:** Python, ETL Pipelines, Document Processing.
-
----
-
-<div align="center">
-  <h2>🔭 Current Focus</h2>
-  <table align="center">
-    <tr>
-      <td align="left">🌱 <b>Learning</b></td>
-      <td align="left">Advanced data engineering patterns, real-time streaming architectures, and modern data stack technologies.</td>
-    </tr>
-    <tr>
-      <td align="left">👯 <b>Collaborating On</b></td>
-      <td align="left">Data engineering projects, AgTech solutions, and Open-source data tools.</td>
-    </tr>
-  </table>
-</div>
-
-<br/>
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
@@ -97,5 +99,5 @@
 <br/>
 
 <div align="center">
-  <p>📫 <b>Get in touch:</b> <a href="mailto:sewardrichardmupereri@gmail.com">sewardrichardmupereri@gmail.com</a></p>
+  <p>📫 <b>Get in touch / Collaborate:</b> <a href="mailto:sewardrichardmupereri@gmail.com">sewardrichardmupereri@gmail.com</a> | <a href="https://banyalabs.com/">banyalabs.com</a></p>
 </div>
