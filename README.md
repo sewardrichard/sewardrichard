@@ -49,6 +49,20 @@
 <hr/>
 
 <div align="center">
+  <h2>🤖 Autonomous Agent Layer & Portfolio Operations</h2>
+  <p align="center">
+    Deploying specialized AI agents alongside applications to progressively automate testing, compliance, and portfolio maintenance as foundation models evolve.
+  </p>
+</div>
+
+* 🛡️ **Deploy Guard**: Code diff inspection, automated test suite execution, and staging database provisioning.
+* ⚖️ **POPIA Compliance Agent**: Automated data isolation checks and regulatory consent auditing across tenant databases.
+* 🔄 **Workflow & Knowledge Orchestration**: Dify & Langflow agent execution pipelines driving grounded RAG knowledge delivery.
+* 📈 **Co-Evolutionary Scale**: Shifting operational and support duties to the agentic layer, enabling the portfolio to expand toward 100 apps with minimal human overhead.
+
+<hr/>
+
+<div align="center">
   <h2>📦 Portfolio Highlights (Roadmap to 100 Apps)</h2>
 </div>
 
@@ -78,10 +92,12 @@
         <img src="https://skillicons.dev/icons?i=nodejs,ts,py,postgres,sqlite,prisma" height="40" alt="Backend & DB" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=docker,linux,git,vercel" height="40" alt="Infra" />
+        <img src="https://skillicons.dev/icons?i=coolify,docker,linux,git,vercel" height="40" alt="Infra" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=fastapi,ai" height="40" alt="AI & Messaging" />
+        <img src="https://skillicons.dev/icons?i=whatsapp,fastapi,ai" height="40" alt="AI & Messaging" /><br/>
+        <a href="https://dify.ai/"><img src="https://img.shields.io/badge/Dify-1E88E5?style=flat-square&logo=dify&logoColor=white" height="22" alt="Dify" /></a>
+        <a href="https://www.langflow.org/"><img src="https://img.shields.io/badge/Langflow-000000?style=flat-square&logoColor=white" height="22" alt="Langflow" /></a>
       </td>
     </tr>
   </table>
