@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banya-hero.png" alt="Banya Labs linework illustration of a terraced studio in a Southern African landscape" width="300" />
+  <img src="./assets/banya-banner.png" alt="Banya Labs linework illustration of a terraced studio in a Southern African landscape" width="100%" />
 
   <h1>Seward Mupereri</h1>
   <p><strong>Full-stack software engineer · Founder, Banya Labs</strong></p>
