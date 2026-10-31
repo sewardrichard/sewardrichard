@@ -1,119 +1,68 @@
 <div align="center">
-  <img src="./hero.gif" alt="Seward Mupereri" width="150" style="border-radius: 50%; border: 4px solid #333;" />
+  <img src="./assets/banya-hero.png" alt="Banya Labs linework illustration of a terraced studio in a Southern African landscape" width="300" />
 
-  <h1 align="center">Seward Mupereri</h1>
-  <h3 align="center">Solo Venture Builder | Founder @ Banya Labs 🌍</h3>
+  <h1>Seward Mupereri</h1>
+  <p><strong>Full-stack software engineer · Founder, Banya Labs</strong></p>
+  <p>Practical software for the people doing the work.</p>
 
-  <p align="center">
-    <b>Building 100 African SaaS & AI Products by July 16, 2028.</b><br/>
-    <i>Solving African operational problems with sovereign infrastructure, local-first UX, and agentic AI.</i>
-  </p>
-
-  <div align="center">
-    <a href="mailto:sewardrichardmupereri@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-    </a>
-    <a href="https://www.linkedin.com/in/seward-mupereri/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-    </a>
-    <a href="https://banyalabs.com/">
-      <img src="https://img.shields.io/badge/Banya_Labs-000000?style=for-the-badge&logo=github&logoColor=white" height="30" />
-    </a>
-  </div>
-</div>
-
-<br/>
-
-<div align="center">
-  <h2>🚀 About Me & The Mission</h2>
-  <p align="center">
-    I am a <b>Solo Venture Builder</b> building digital products tailored for Southern Africa and emerging markets.<br/>
-    Inspired by high-velocity solo developers (Marc Lou, Pieter Levels), I build and iterate on scalable software with an African-first posture: zero-app WhatsApp workflows, POPIA-compliant data boundaries, Southern African multi-currency commercial models, and self-hosted low-friction cloud infrastructure.
+  <p>
+    <a href="https://banyalabs.com/">Banya Labs</a> &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/seward-mupereri/">LinkedIn</a> &nbsp;·&nbsp;
+    <a href="mailto:sewardrichardmupereri@gmail.com">Email me</a>
   </p>
 </div>
 
-<hr/>
+---
 
-<div align="center">
-  <h2>⚡ Banya Core — PaaS Boilerplate for African Founders</h2>
-  <p align="center">
-    Centralized control plane and PaaS boilerplate designed for low operational friction and rapid deployment across African markets.
-  </p>
-</div>
+## What I build
 
-* **Zero-App WhatsApp Gateways**: Official WhatsApp Cloud API & Chatwoot multi-tenant automation.
-* **Sovereign Infrastructure**: Self-hosted Coolify PaaS, Docker, and private VPS nodes (zero cloud lock-in fees).
-* **Local-First & Offline Resilience**: Local SQLite / PowerSync, PWA kiosks, and thermal print drivers for unreliable connectivity.
-* **African Payments & Security**: Paystack & Southern African multi-currency engine (ZAR, USD, ZiG, ZMW) & POPIA audit trail logging.
+I build business applications, client portals and automation through [Banya Labs](https://banyalabs.com/), a founder-led software studio focused on Southern Africa.
 
-<hr/>
+My starting point is the recurring task: an enquiry that needs a follow-up, an order that is hard to track, or information a team keeps entering twice. I work across the interface, database and integrations to turn that task into a useful workflow.
 
-<div align="center">
-  <h2>🤖 Autonomous Agent Layer & Portfolio Operations</h2>
-  <p align="center">
-    Deploying specialized AI agents alongside applications to progressively automate testing, compliance, and portfolio maintenance as foundation models evolve.
-  </p>
-</div>
+- **Business software:** focused tools for enquiries, stock, quoting and day-to-day operations.
+- **Client systems:** portals, checklists and internal tools shaped around how a team works.
+- **AI and data workflows:** retrieval, data pipelines and assistants with clear review points.
 
-* 🛡️ **Deploy Guard**: Code diff inspection, automated test suite execution, and staging database provisioning.
-* ⚖️ **POPIA Compliance Agent**: Automated data isolation checks and regulatory consent auditing across tenant databases.
-* 🔄 **Workflow & Knowledge Orchestration**: Dify & Langflow agent execution pipelines driving grounded RAG knowledge delivery.
-* 📈 **Co-Evolutionary Scale**: Shifting operational and support duties to the agentic layer, enabling the portfolio to expand toward 100 apps with minimal human overhead.
+The long-term ambition is to build and validate **100 useful software products**. That includes learning from users and improving the products already underway.
 
-<hr/>
+## Selected Banya Labs work
 
-<div align="center">
-  <h2>📦 Portfolio Highlights (Roadmap to 100 Apps)</h2>
-</div>
+| Project | Focus |
+| --- | --- |
+| **Contour** | Property enquiries, matching and follow-up for agency workflows. |
+| **Passione OS** | Stock visibility, supplier orders and delivery workflows for a bedding retailer. |
+| **Rusetat tools** | Service enquiries, private client checklists and staff review workflows. |
+| **Marii** | A quoting workflow in development for businesses that quote regularly. |
 
-* 📱 **Marii Quoting** — Voice-to-RFQ parsing, multi-currency PDF generator (ZAR, USD, ZiG), and WhatsApp quote dispatch for SMEs.
-* 🛡️ **Muyeni Platform** — Zero-app estate access SaaS with automated WhatsApp visitor passes & POPIA logs.
-* 🏥 **Practice Assistant** — Medical WhatsApp AI for patient booking, tariff validation, and POPIA consent.
-* 🎓 **EduGateKeeper & AcademiaTrack** — Offline tablet kiosks & AI student report card OCR parsing.
-* 🏭 **Enterprise Aura** — Mining & industrial RAG data pipeline resolving shadow stock discrepancies.
+Explore the product and client-work stories at [banyalabs.com](https://banyalabs.com/). Some client systems are maintained in private repositories.
 
-<hr/>
+## Public code to explore
 
-<div align="center">
-  <h2>🛠 Tech Stack & Ecosystem</h2>
-  
-  <table align="center" style="border: none;">
-    <tr>
-      <td align="center" width="25%"><b>Frontend & PWA</b></td>
-      <td align="center" width="25%"><b>Backend & DB</b></td>
-      <td align="center" width="25%"><b>DevOps & Infra</b></td>
-      <td align="center" width="25%"><b>AI & Messaging</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,vue,react,tailwind,html,css" height="40" alt="Frontend" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,ts,py,postgres,sqlite,prisma" height="40" alt="Backend & DB" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=coolify,docker,linux,git,vercel" height="40" alt="Infra" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=whatsapp,fastapi,ai" height="40" alt="AI & Messaging" /><br/>
-        <a href="https://dify.ai/"><img src="https://img.shields.io/badge/Dify-1E88E5?style=flat-square&logo=dify&logoColor=white" height="22" alt="Dify" /></a>
-        <a href="https://www.langflow.org/"><img src="https://img.shields.io/badge/Langflow-000000?style=flat-square&logoColor=white" height="22" alt="Langflow" /></a>
-      </td>
-    </tr>
-  </table>
-</div>
+- [**Agentic knowledge engineering pipeline**](https://github.com/sewardrichard/agentic-knowledge-engineering-data-pipeline): data engineering work around supply-chain information and AI retrieval.
+- [**MFZ AI chatbot**](https://github.com/sewardrichard/mfz-ai-chatbot): customer-enquiry handling and lead-distribution automation.
+- [**Cost2Class**](https://github.com/sewardrichard/cost2class): a browser-based academic budget planner with local storage and CSV import/export.
 
-<hr/>
+## Tools I work with
 
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sewardrichard&theme=dark&hide_border=true&background=00000000" alt="Streak Stats" />
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=sewardrichard&style=flat-square&color=0A66C2" alt="Profile Views" />
-</div>
+| Area | Tools |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, SQL |
+| Interfaces | Next.js, React, HTML, CSS, Tailwind CSS |
+| Backend and data | Node.js, PostgreSQL, Prisma, SQLite |
+| Infrastructure | Linux, Docker, Nginx, Hetzner, GitHub Actions |
+| AI and automation | Dify, Langflow, retrieval pipelines, API and webhook integrations |
 
-<br/>
+## How I approach the work
 
-<div align="center">
-  <p>📫 <b>Get in touch / Collaborate:</b> <a href="mailto:sewardrichardmupereri@gmail.com">sewardrichardmupereri@gmail.com</a> | <a href="https://banyalabs.com/">banyalabs.com</a></p>
-</div>
+- Understand the task before choosing the tools.
+- Keep the first useful release focused enough to put in front of users.
+- Design around the devices, connectivity and existing systems people actually use.
+- Make access, ownership and human review explicit.
+- Treat deployment, maintenance and operating cost as part of the product.
+
+## Get in touch
+
+Working on a business process that needs better software? I’m open to conversations about focused products, client systems and useful integrations.
+
+[sewardrichardmupereri@gmail.com](mailto:sewardrichardmupereri@gmail.com) · [LinkedIn](https://www.linkedin.com/in/seward-mupereri/) · [Banya Labs](https://banyalabs.com/)
