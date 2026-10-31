@@ -51,6 +51,7 @@ Explore the product and client-work stories at [banyalabs.com](https://banyalabs
 | Interfaces | Next.js, React, HTML, CSS, Tailwind CSS |
 | Backend and data | Node.js, PostgreSQL, Prisma, SQLite |
 | Infrastructure | Linux, Docker, Nginx, Hetzner, GitHub Actions |
+| AI development tools and harnesses | Codex, Antigravity, Hermes |
 | AI and automation | Dify, Langflow, retrieval pipelines, API and webhook integrations |
 
 ## How I approach the work
